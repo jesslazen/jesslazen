@@ -1,4 +1,4 @@
-<img src="https://github.com/jesslazen/jesslazen/blob/main/readme_bio.png">
+<img src="https://github.com/jesslazen/jesslazen/blob/main/readme_header.png">
 
 [![Website Badge](https://img.shields.io/badge/website-dac4d0?style=flat&logo=Google-Chrome&logoColor=dac4d0&color=845e74)](https://jesslazen.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/email-dac4d0?style=flat&logo=Gmail&logoColor=dac4d0&color=845e74)](mailto:jessica.lazen@gmail.com)
